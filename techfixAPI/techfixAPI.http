@@ -1,0 +1,6 @@
+@techfixAPI_HostAddress = http://localhost:5286
+
+GET {{techfixAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
